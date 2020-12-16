@@ -1,7 +1,5 @@
-#SPAR
+<h1>SPAR</h1>
 
-##Connecting music, art, and technology. 
+<h2>Connecting music, art, and AR technology.</h2>
 
-This app will display AR song lyrics and artwork based on the current song the user is playing on Spotify. 
-
-##*In progress*
+<i>In progress</i>
